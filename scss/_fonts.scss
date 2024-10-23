@@ -1,0 +1,14 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@font-face {
+  font-family: 'Craftwork Grotesk';
+  src: url('../fonts/CraftworkGrotesk-Bold.eot');
+  src: local('Craftwork Grotesk Bold'), local('CraftworkGrotesk-Bold'),
+      url('../fonts/CraftworkGrotesk-Bold.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/CraftworkGrotesk-Bold.woff2') format('woff2'),
+      url('../fonts/CraftworkGrotesk-Bold.woff') format('woff'),
+      url('../fonts/CraftworkGrotesk-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  }
